@@ -8,7 +8,7 @@
 
 - 📫 How to reach me **boganecati@outlook.com**
 
-- 📄 This is my CV [https://drive.google.com/file/d/14N0ZubSy6u0LO1w9trLLnY09izcZ2vq1/view?usp=sharing](Necatiboga)
+- 📄 This is my CV [NecatiBoga](https://drive.google.com/file/d/14N0ZubSy6u0LO1w9trLLnY09izcZ2vq1/view?usp=sharing)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=necatiboga&icon=6&color=7)](https://visitcount.itsvg.in)
