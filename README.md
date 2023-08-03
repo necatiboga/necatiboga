@@ -1,17 +1,17 @@
 <h1 align="center">Hi 👋, I'm Necati Boğa</h1>
 <h3 align="center">Computer Engineer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=necatiboga&label=Profile%20views&color=0e75b6&style=flat" alt="necatiboga" /> </p>
+# 💫 About Me:
+- ⚡ I’m currently working on **React, Angular, NodeJs**
 
-
-
-- 🔭 I’m currently working at **TyX Technologies**
-
-- 🌱 I’m currently developing **React, Angular, NodeJs**
+- 🌱 I’m currently learning **RxJS, Redux**
 
 - 📫 How to reach me **boganecati@outlook.com**
 
 - 📄 This is my CV [https://drive.google.com/file/d/14N0ZubSy6u0LO1w9trLLnY09izcZ2vq1/view?usp=sharing](Necatiboga)
+
+---
+[![](https://visitcount.itsvg.in/api?id=necatiboga&icon=6&color=7)](https://visitcount.itsvg.in)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -25,5 +25,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=necatiboga&show_icons=true&locale=en&layout=compact" alt="necatiboga" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=necatiboga&show_icons=true&locale=en" alt="necatiboga" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=necatiboga&" alt="necatiboga" /></p>
