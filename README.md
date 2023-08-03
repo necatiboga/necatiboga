@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **boganecati@outlook.com**
 
-- 📄 This is my CV [https://drive.google.com/file/d/14N0ZubSy6u0LO1w9trLLnY09izcZ2vq1/view?usp=sharing](https://drive.google.com/file/d/14N0ZubSy6u0LO1w9trLLnY09izcZ2vq1/view?usp=sharing)
+- 📄 This is my CV [https://drive.google.com/file/d/14N0ZubSy6u0LO1w9trLLnY09izcZ2vq1/view?usp=sharing](Necatiboga)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
