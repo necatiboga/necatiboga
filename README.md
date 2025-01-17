@@ -25,3 +25,6 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=necatiboga&show_icons=true&locale=en&layout=compact" alt="necatiboga" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=necatiboga&show_icons=true&locale=en" alt="necatiboga" /></p>
+
+### 🏗️ My GitLab Contributions
+Check out my recent activities on [GitLab](https://gitlab.com/necatiboga).
